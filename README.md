@@ -33,6 +33,6 @@ Dengan bantuan AI, proses pembuatan website menjadi lebih cepat, kode lebih rapi
 
 ##  Deployment
 Proyek ini dapat di-deploy menggunakan:  
-- Netlify – [https://www.netlify.com](https://www.netlify.com)](https://lovely-pegasus-da8684.netlify.app/)
+- Netlify ](https://lovely-pegasus-da8684.netlify.app/)
   
 
